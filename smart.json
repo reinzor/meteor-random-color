@@ -1,0 +1,8 @@
+{
+  "name": "random-color",
+  "description": "Random Color (v0.1.1), lib for generating attractive random colors, from David Merfield, https://github.com/davidmerfield/randomColor, packaged for Meteor.js.",
+  "homepage": "https://github.com/AndrasPH/meteor-random-color",
+  "author": "András Heé",
+  "version": "0.0.1",
+  "git": "https://github.com/AndrasPH/meteor-random-color"
+}
