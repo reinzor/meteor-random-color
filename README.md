@@ -54,3 +54,6 @@ I added also a template helper. It can be called with all options available.
 ```
 {{ randomColor hue='blue' }}
 ```
+
+
+Provided by [Philipp & Heé](http://blog.philippundhee.ch/)
