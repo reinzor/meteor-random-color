@@ -45,15 +45,3 @@ randomColor({
    format: 'rgb' // e.g. 'rgb(225,200,20)'
 });
 ```
-
-UI Template Helpers
-------
-
-I added also a template helper. It can be called with all options available.
-
-```
-{{ randomColor hue='blue' }}
-```
-
-
-Provided by [Philipp & Heé](http://blog.philippundhee.ch/)

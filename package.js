@@ -1,9 +1,10 @@
 Package.describe({
-    summary: "Random Color (v0.1.1), lib for generating attractive random colors, from David Merfield, https://github.com/davidmerfield/randomColor, packaged for Meteor.js."
+    name: "rzymek:randomcolor",
+    version: "0.1.1_1",
+    summary: "Random Color (v0.1.1), lib for generating attractive random colors, from David Merfield",
+    git:"https://github.com/rzymek/meteor-random-color.git"
 });
 
 Package.on_use(function (api) {
-    api.use('ui', 'client');
     api.add_files('lib/js/randomColor.js');
-    api.add_files('client/helpers.js', 'client');
 });
